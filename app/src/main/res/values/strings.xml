@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxShabalkova</string>
+    <string name="inputMoney_hint">Ввод денег</string>
+    <string name="inputInfo_hint">Информация об оплате</string>
+    <string name="bankCardChkBx_text">С банковской карты</string>
+    <string name="mobilePhoneChkBx_text">С мобильного телефона</string>
+    <string name="cashAddressChkBx_text">Наличными по адресу</string>
+</resources>
